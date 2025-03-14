@@ -1,6 +1,6 @@
 require("dotenv").config({ path: '.env.development' });
 const express = require("express");
-const chalk =  require('chalk');
+const chalk =  require("chalk");
 const bodyParser = require("body-parser");
 const routes = require('./routes/routes');
 const mongoose = require('mongoose');
