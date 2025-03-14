@@ -1,0 +1,10 @@
+{"messages": [{"role": "user", "content": "normal lomber mr raporu getir"}, {"role": "assistant", "content": "lomber"}]}
+{"messages": [{"role": "user", "content": "normal lomber mr raporu"}, {"role": "assistant", "content": "lomber"}]}
+{"messages": [{"role": "user", "content": "lomber raporu"}, {"role": "assistant", "content": "lomber"}]}
+{"messages": [{"role": "user", "content": "lomber mr raporu getir"}, {"role": "assistant", "content": "lomber"}]}
+{"messages": [{"role": "user", "content": "lomber mr raporu"}, {"role": "assistant", "content": "lomber"}]}
+{"messages": [{"role": "user", "content": "normal beyin mr raporu getir"}, {"role": "assistant", "content": "beyin"}]}
+{"messages": [{"role": "user", "content": "normal beyin mr raporu"}, {"role": "assistant", "content": "beyin"}]}
+{"messages": [{"role": "user", "content": "beyin mr raporu"}, {"role": "assistant", "content": "beyin"}]}
+{"messages": [{"role": "user", "content": "normal beyin mr raporu ver"}, {"role": "assistant", "content": "beyin"}]}
+{"messages": [{"role": "system", "content": "Sen bir radyoloji uzmanısın. Sana gelen cümleden, lomber veya beyin raporlarından hangisinin istenmiş olabileceğini tahmin et ve cevabı tek kelimeyle ver."}, {"role": "assistant", "content": ""}]}

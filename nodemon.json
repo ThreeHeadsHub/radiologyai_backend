@@ -1,0 +1,13 @@
+{
+    "env": {
+        "DB_USER": "sergene",
+        "DB_PASSWORD": "KPmP0AY0kBnXf2Fw",
+        "DB_NAME":"radiologyai_dev",
+        "PORT":"5002",
+        "JWT_KEY":"5aa3de9fe87aab3f9334f6ea3962ed0750fe987e3d6aa7ffcf9482b28167a97b",
+        "OPENAI_API_KEY":"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",
+        "EMAIL_USER":"radyolojiai@gmail.com",
+        "EMAIL_PASSWORD":"sfsb phvv sude oybp",
+        "FRONT_LINK":"http://localhost:3000"
+    }
+}
