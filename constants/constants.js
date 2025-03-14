@@ -16,7 +16,7 @@ const originHeader = {
 };
 const whisperPrompt = `Bu komutlar radyoloji raporu istemek veya rapor uzerinde degisiklik yapmak için kullanılmaktadır;
   Bazı örnek komutlar aşağıdaki gibidir:
-  - "beyin MR raporu getir"
+  - 'beyin MR raporu getir'
   - "normal beyin MR raporu getir"
   - "lomber MR raporu"
   - "kalça MR raporu getir"
